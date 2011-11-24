@@ -1,6 +1,6 @@
 package  
 { // *****IMPORTANT******************************** GO TO PROJECT>PROPERTIES AND SET YOUR DIMENSIONS TO 640X480 *******************************************
-  
+  // I changed the file
 	import net.flashpunk.Entity; // We control the entity
 	import net.flashpunk.graphics.Image; // Our ball starts off as an image so we need Image
 	import net.flashpunk.graphics.Text; // If we go to far then TEXT will appear, thats why we need it
