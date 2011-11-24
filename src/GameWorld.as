@@ -1,5 +1,5 @@
 package  
-{ // *****IMPORTANT********* GO TO PROJECT>PROPERTIES AND SET YOUR DIMENSIONS TO 640X480 *******************************************
+{ // *****IMPORTANT******************************** GO TO PROJECT>PROPERTIES AND SET YOUR DIMENSIONS TO 640X480 *******************************************
   
 	import net.flashpunk.Entity; // We control the entity
 	import net.flashpunk.graphics.Image; // Our ball starts off as an image so we need Image
